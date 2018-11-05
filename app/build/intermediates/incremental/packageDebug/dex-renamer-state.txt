@@ -1,0 +1,7 @@
+#Tue Nov 22 00:17:20 BRST 2016
+base.0=C\:\\Users\\Richard\\Downloads\\ProjetoTurismo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5a89f5e1b660bbe08d0bc313e4147ec24c4fa6ed
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Richard\\Downloads\\ProjetoTurismo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7f96485dfdeffe9c0a4234b8c4213112d8a3e344\\classes.dex
+base.1=C\:\\Users\\Richard\\Downloads\\ProjetoTurismo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7f96485dfdeffe9c0a4234b8c4213112d8a3e344
+file.0=C\:\\Users\\Richard\\Downloads\\ProjetoTurismo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5a89f5e1b660bbe08d0bc313e4147ec24c4fa6ed\\classes.dex

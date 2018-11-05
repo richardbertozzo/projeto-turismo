@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_aeff3d940ca2936de44bf865c992b295bd504ba7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_fdc8093496531c02c50b1dddcea7a48d745acf42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_83efeb79dc694c8ba473bcbd0f78e409dcffd9df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_1c076cced284901add2fa25d8d0e9ed89a8e6d8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_096d248e82c3fe1ad98e311ccc88f4e65ccb7c4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_143da2191a66b6866c0eef95169b0bbdb86683ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_50afad46f219a974350165003c41412d65d87169\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_04b1907bfabb9677093b13cb712eb6f3addaf7cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_0e5ee356ad7fa483f271360f1f6d4edbd9b650b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a782b2fa6c66c777190e8aed3501fd2b0eedfde2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d2e490d1190d65b9ae4e5f7941203886a4a5ef4">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f96485dfdeffe9c0a4234b8c4213112d8a3e344\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_27885f18d19d1e1c3243140fd5036fb830bb2794\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_abc675f9aee0ad0bcc80c4f8de0019b9cc80ca79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_7f6d56d0800017d354586b7a7658609635cf210d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_1c70ecc48bc7f8fed3591156f7f502a7a2cdec2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_ab923aa8d5c1e8e08bff1ffd298ff9e743c0a920\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_976031ebde49fcf0ea1d6a4a9e1f7841a5ffadf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_98c70e49ac3a9d82519508a934df48e3554fdf1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_442b70061d134d18210ceaa89b961954ab95ddea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b4072d59b5a2032281343f4e844581d687c1467">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5a89f5e1b660bbe08d0bc313e4147ec24c4fa6ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Richard\Downloads\ProjetoTurismo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_0e3d249dba853ec81ed5bc04e19ed8fbd73e9780\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guia de Praias</string>
+    <string name="praia1">Joaquina</string>
+    <string name="praia2">Lagoa</string>
+    <string name="praia3">Armação</string>
+    <string name="opcao2">Favoritas</string>
+    <string name="opcao">Todas as praias</string>
+
+</resources>
